@@ -41,10 +41,10 @@ print("---LOGIN SUCCES---\nBY: SELFBOT-BY:SADIS")
 
 poll = LinePoll(cl)
 call = cl
-creator = ["u6b34b703cbc5fc83cd1e5b6832a05352","u8fe6aa81c89832feaf8e5c8786aef214"]
-owner = ["u6b34b703cbc5fc83cd1e5b6832a05352","u8fe6aa81c89832feaf8e5c8786aef214"]
-admin = ["u6b34b703cbc5fc83cd1e5b6832a05352","u8fe6aa81c89832feaf8e5c8786aef214"]
-staff = ["u6b34b703cbc5fc83cd1e5b6832a05352","u8fe6aa81c89832feaf8e5c8786aef214"]
+creator = ["u6b34b703cbc5fc83cd1e5b6832a05352","u8fe6aa81c89832feaf8e5c8786aef214","u2759c4407ba35f11f94ff2b64b628776"]
+owner = ["u6b34b703cbc5fc83cd1e5b6832a05352","u8fe6aa81c89832feaf8e5c8786aef214","u2759c4407ba35f11f94ff2b64b628776"]
+admin = ["u6b34b703cbc5fc83cd1e5b6832a05352","u8fe6aa81c89832feaf8e5c8786aef214","u2759c4407ba35f11f94ff2b64b628776"]
+staff = ["u6b34b703cbc5fc83cd1e5b6832a05352","u8fe6aa81c89832feaf8e5c8786aef214","u2759c4407ba35f11f94ff2b64b628776"]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
