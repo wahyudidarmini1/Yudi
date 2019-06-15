@@ -36,10 +36,10 @@ sw = LineClient(authToken='u3a69a8daa0f2ca0053b7da2f4fcda0ca:aWF0OiAxNTYwMzM5MjE
 
 poll = LinePoll(cl)
 call = cl
-creator = ["u6b34b703cbc5fc83cd1e5b6832a05352","uf05c4c93e4fdb447df91acd7785f28b2"]
-owner = ["u6b34b703cbc5fc83cd1e5b6832a05352","uf05c4c93e4fdb447df91acd7785f28b2"]
-admin = ["u6b34b703cbc5fc83cd1e5b6832a05352","uf05c4c93e4fdb447df91acd7785f28b2"]
-staff = ["u6b34b703cbc5fc83cd1e5b6832a05352","uf05c4c93e4fdb447df91acd7785f28b2"]
+creator = ["u6b34b703cbc5fc83cd1e5b6832a05352","uf05c4c93e4fdb447df91acd7785f28b2","u2759c4407ba35f11f94ff2b64b628776"]
+owner = ["u6b34b703cbc5fc83cd1e5b6832a05352","uf05c4c93e4fdb447df91acd7785f28b2","u2759c4407ba35f11f94ff2b64b628776"]
+admin = ["u6b34b703cbc5fc83cd1e5b6832a05352","uf05c4c93e4fdb447df91acd7785f28b2","u2759c4407ba35f11f94ff2b64b628776"]
+staff = ["u6b34b703cbc5fc83cd1e5b6832a05352","uf05c4c93e4fdb447df91acd7785f28b2","u2759c4407ba35f11f94ff2b64b628776"]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
